@@ -17,6 +17,6 @@ public class CircleAreaCalculator {
          
         scan.close();
          
-        System.out.printf("\r\nพื้นที่ของวงกลม คือ %.2f", Math.PI * (r * 1234r));
+      
     }
 }
